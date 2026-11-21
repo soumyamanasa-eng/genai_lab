@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "What is Artificial Intelligence?",
+    "expected_keywords": ["machines", "intelligence"]
+  },
+  {
+    "id": 2,
+    "question": "What is Machine Learning?",
+    "expected_keywords": ["data", "learn"]
+  },
+  {
+    "id": 3,
+    "question": "What is Deep Learning?",
+    "expected_keywords": ["neural", "network"]
+  },
+  {
+    "id": 4,
+    "question": "What is Natural Language Processing?",
+    "expected_keywords": ["language", "text"]
+  },
+  {
+    "id": 5,
+    "question": "What is Computer Vision?",
+    "expected_keywords": ["image", "visual"]
+  },
+  {
+    "id": 6,
+    "question": "What is a Large Language Model?",
+    "expected_keywords": ["language", "token"]
+  },
+  {
+    "id": 7,
+    "question": "What is a neural network?",
+    "expected_keywords": ["neuron", "layer"]
+  },
+  {
+    "id": 8,
+    "question": "What is an algorithm?",
+    "expected_keywords": ["step", "problem"]
+  },
+  {
+    "id": 9,
+    "question": "What is a dataset?",
+    "expected_keywords": ["data", "example"]
+  },
+  {
+    "id": 10,
+    "question": "What is training in machine learning?",
+    "expected_keywords": ["model", "data"]
+  },
+  {
+    "id": 11,
+    "question": "What is inference in AI?",
+    "expected_keywords": ["model", "prediction"]
+  },
+  {
+    "id": 12,
+    "question": "What is overfitting?",
+    "expected_keywords": ["training", "generalize"]
+  },
+  {
+    "id": 13,
+    "question": "What is underfitting?",
+    "expected_keywords": ["simple", "pattern"]
+  },
+  {
+    "id": 14,
+    "question": "What is classification?",
+    "expected_keywords": ["category", "label"]
+  },
+  {
+    "id": 15,
+    "question": "What is regression?",
+    "expected_keywords": ["continuous", "value"]
+  },
+  {
+    "id": 16,
+    "question": "What is clustering?",
+    "expected_keywords": ["group", "similar"]
+  },
+  {
+    "id": 17,
+    "question": "What is a prompt?",
+    "expected_keywords": ["instruction", "input"]
+  },
+  {
+    "id": 18,
+    "question": "What is a chatbot?",
+    "expected_keywords": ["conversation", "response"]
+  },
+  {
+    "id": 19,
+    "question": "What is tokenization?",
+    "expected_keywords": ["token", "text"]
+  },
+  {
+    "id": 20,
+    "question": "What is an embedding?",
+    "expected_keywords": ["vector", "meaning"]
+  },
+  {
+    "id": 21,
+    "question": "What is a hallucination in AI?",
+    "expected_keywords": ["incorrect", "information"]
+  },
+  {
+    "id": 22,
+    "question": "What is generative AI?",
+    "expected_keywords": ["generate", "content"]
+  },
+  {
+    "id": 23,
+    "question": "What is a transformer model?",
+    "expected_keywords": ["attention", "sequence"]
+  },
+  {
+    "id": 24,
+    "question": "What is sentiment analysis?",
+    "expected_keywords": ["emotion", "text"]
+  },
+  {
+    "id": 25,
+    "question": "What is prompt engineering?",
+    "expected_keywords": ["prompt", "instruction"]
+  },
+  {
+    "id": 26,
+    "question": "What is a GPU?",
+    "expected_keywords": ["parallel", "processing"]
+  },
+  {
+    "id": 27,
+    "question": "What is AI ethics?",
+    "expected_keywords": ["fairness", "responsible"]
+  },
+  {
+    "id": 28,
+    "question": "What is responsible AI?",
+    "expected_keywords": ["safe", "fair"]
+  },
+  {
+    "id": 29,
+    "question": "What is data preprocessing?",
+    "expected_keywords": ["clean", "data"]
+  },
+  {
+    "id": 30,
+    "question": "What is model evaluation?",
+    "expected_keywords": ["performance", "metric"]
+  }
+]
